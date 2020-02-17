@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/test-catchwords/static/js/main.0ef656ff.chunk.js",
+    "main.js.map": "/test-catchwords/static/js/main.0ef656ff.chunk.js.map",
+    "runtime-main.js": "/test-catchwords/static/js/runtime-main.57cb257c.js",
+    "runtime-main.js.map": "/test-catchwords/static/js/runtime-main.57cb257c.js.map",
+    "static/js/2.5fdc6266.chunk.js": "/test-catchwords/static/js/2.5fdc6266.chunk.js",
+    "static/js/2.5fdc6266.chunk.js.map": "/test-catchwords/static/js/2.5fdc6266.chunk.js.map",
+    "index.html": "/test-catchwords/index.html",
+    "precache-manifest.9c123d04123f1dd96ca0ce289b011f3f.js": "/test-catchwords/precache-manifest.9c123d04123f1dd96ca0ce289b011f3f.js",
+    "service-worker.js": "/test-catchwords/service-worker.js",
+    "static/media/alert.svg": "/test-catchwords/static/media/alert.d73c42bd.svg",
+    "static/media/checkmark.svg": "/test-catchwords/static/media/checkmark.fab2dd99.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57cb257c.js",
+    "static/js/2.5fdc6266.chunk.js",
+    "static/js/main.0ef656ff.chunk.js"
+  ]
+}
